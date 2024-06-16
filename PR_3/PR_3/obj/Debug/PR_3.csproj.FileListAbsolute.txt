@@ -1,0 +1,34 @@
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\bin\Debug\PR_3.exe.config
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\bin\Debug\PR_3.exe
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\bin\Debug\PR_3.pdb
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.Form1.resources
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.Properties.Resources.resources
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.csproj.GenerateResource.cache
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.exe
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.pdb
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\obj\Debug\PR_3.Form2.resources
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.csproj.AssemblyReference.cache
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.Form1.resources
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.Form2.resources
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.Properties.Resources.resources
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.csproj.GenerateResource.cache
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.exe
+C:\Users\Home-pc\Desktop\PR_3\PR_3\obj\Debug\PR_3.pdb
+C:\Users\Home-pc\Desktop\PR_3\PR_3\bin\Debug\PR_3.exe.config
+C:\Users\Home-pc\Desktop\PR_3\PR_3\bin\Debug\PR_3.exe
+C:\Users\Home-pc\Desktop\PR_3\PR_3\bin\Debug\PR_3.pdb
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\bin\Debug\PR_3.exe.config
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\bin\Debug\PR_3.exe
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\bin\Debug\PR_3.pdb
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.Form1.resources
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.Form2.resources
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.Properties.Resources.resources
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.csproj.GenerateResource.cache
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.exe
+D:\Users\1213-4\Documents\2-ИСП\Разработка КИС (МДК)\PR_3\PR_3\PR_3\obj\Debug\PR_3.pdb
